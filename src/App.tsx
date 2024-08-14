@@ -65,7 +65,7 @@ function App() {
                     alt='Green double couch with wooden legs'
                     borderRadius='lg'
                 />
-                <h1>Enter 2 numbers below...Current numbers are random-really</h1>
+                <h1>Enter 2 numbers below...Current numbers are random ...</h1>
                 <Input value={number1} onChange={handleChange1} />
                 <Divider />
                 <Input value={number2} onChange={handleChange2} />
